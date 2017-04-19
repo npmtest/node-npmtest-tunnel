@@ -1,4 +1,7 @@
-# test coverage for  [tunnel (v0.0.4)](https://github.com/koichik/node-tunnel/)  [![npm package](https://img.shields.io/npm/v/npmtest-tunnel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tunnel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tunnel.svg)](https://travis-ci.org/npmtest/node-npmtest-tunnel)
+# npmtest-tunnel
+
+#### basic test coverage for  [tunnel (v0.0.4)](https://github.com/koichik/node-tunnel/)  [![npm package](https://img.shields.io/npm/v/npmtest-tunnel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tunnel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tunnel.svg)](https://travis-ci.org/npmtest/node-npmtest-tunnel)
+
 #### Node HTTP/HTTPS Agents for tunneling proxies
 
 [![NPM](https://nodei.co/npm/tunnel.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tunnel)
